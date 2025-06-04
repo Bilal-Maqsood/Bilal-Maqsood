@@ -12,8 +12,7 @@ I'm a highly experienced Full Stack JavaScript Developer with 8+ years of profes
 
 🔭 Currently focused on projects involving **Figma-to-React automation**, **AI-powered onboarding**, and **video SDK integrations**.
 
-📍 Based in Portugal with a valid residence permit  
-🧑‍💼 Top Rated Plus Freelancer on Upwork  
+📍 Based in Portugal  
 🧠 Passionate about mentoring and scaling frontend architecture
 
 ---
