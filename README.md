@@ -139,16 +139,6 @@ Tool that converts Figma API output into production-ready React components.
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bilaldevx&show_icons=true&theme=radical" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bilaldevx&layout=compact&theme=radical" />
-</p>
-
----
-
 ## 📫 Contact Me
 
 - **LinkedIn:** [https://www.linkedin.com/in/bilal-maqsood-640b7494/](https://www.linkedin.com/in/bilal-maqsood-640b7494/)
