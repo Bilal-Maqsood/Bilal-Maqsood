@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Bilal 👋</h1>
+<h1 align="center">Bilal Maqsood</h1>
 
 <p align="center">
   <b>Senior Javascript Engineer | 8+ Years Experience | React, React Native, Next.js, TypeScript, Node.js, MongoDB</b>
